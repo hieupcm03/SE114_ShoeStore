@@ -26,7 +26,7 @@ Built with scalability and performance in mind, the project leverages a reactive
 
 ## 👨‍💻 My Contributions
 
-**Member:** Phan Cao Minh Hiếu
+**Member:** Phan Cao Minh Hieu
 
 **Role:** Frontend Mobile Developer
 
