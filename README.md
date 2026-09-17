@@ -24,6 +24,30 @@ Built with scalability and performance in mind, the project leverages a reactive
 
 ---
 
+## 👨‍💻 My Contributions
+
+**Member:** Phan Cao Minh Hiếu
+
+**Role:** Frontend Mobile Developer
+
+**Key Responsibilities & Implemented Features:**
+
+* **Customer & Admin E-Commerce Flows (UI/UX):**
+  * Developed the end-to-end mobile interfaces for both **Customer and Admin roles**.
+  * **Customer Role:** Built flows for Product Discovery & Details, Cart Management, Voucher Selection, Checkout, and Profile Management.
+  * **Admin Role:** Developed the admin dashboard and operational screens for Product CRUD (creation, updates, variants), Voucher Campaign Management, Order/Invoice Status Tracking, and User Profile Management.
+  * Built a highly reactive and declarative UI using **Kotlin 2.2** and **Jetpack Compose**, strictly adhering to Material 3 design guidelines.
+  * Implemented seamless, role-based navigation flows utilizing **Navigation Compose**.
+  * Handled asynchronous, optimized image loading from Cloudinary using **Coil Compose**.
+* **Architecture & State Management:**
+  * Applied the **MVVM (Model-View-ViewModel)** architecture and **Repository Pattern** to ensure a clean separation of concerns between the UI layer and data access layer.
+  * Managed complex UI states (e.g., dynamic cart calculations, admin data mutations, checkout form validation) safely and efficiently using **Kotlin Coroutines** and `StateFlow`.
+* **API Integration & Real-time Data:**
+  * Integrated ASP.NET Core RESTful APIs via **Retrofit** with OkHttp Logging Interceptor for dynamic product fetching, admin CRUD operations, profile updates, and order submissions.
+  * Integrated **SignalR Client** to handle WebSocket connections, enabling real-time payment status updates and order state transitions during the Checkout flow.
+ 
+---
+
 ## ✨ Core Features & Technical Highlights
 
 * 🛍️ **Complete Shopping Flow:** Product discovery, product details, variant selection, cart management, checkout preparation, order placement, invoice tracking, and QR-based payment flow.
